@@ -1,5 +1,6 @@
 <p align="center">
-  https://scontent.fdad3-3.fna.fbcdn.net/v/t1.0-9/157953105_3063563957205540_7520377873993865023_o.jpg?_nc_cat=100&ccb=1-3&_nc_sid=a4a2d7&_nc_ohc=H-ADVzidiSAAX8M-rGX&_nc_ht=scontent.fdad3-3.fna&oh=9a259404b84f9350f66254ee62e601de&oe=6081F2CC
+  
+  <a href="https://scontent.fdad3-3.fna.fbcdn.net/v/t1.0-9/157953105_3063563957205540_7520377873993865023_o.jpg?_nc_cat=100&ccb=1-3&_nc_sid=a4a2d7&_nc_ohc=H-ADVzidiSAAX8M-rGX&_nc_ht=scontent.fdad3-3.fna&oh=9a259404b84f9350f66254ee62e601de&oe=6081F2CC" target="blank"><img src="https://scontent.fdad3-3.fna.fbcdn.net/v/t1.0-9/157953105_3063563957205540_7520377873993865023_o.jpg?_nc_cat=100&ccb=1-3&_nc_sid=a4a2d7&_nc_ohc=H-ADVzidiSAAX8M-rGX&_nc_ht=scontent.fdad3-3.fna&oh=9a259404b84f9350f66254ee62e601de&oe=6081F2CC" width="320" alt="Git Hub Le duc dunng" /></a>
 </p>
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
